@@ -8,6 +8,8 @@ import About from "./pages/About.tsx";
 import Services from "./pages/Services.tsx";
 import Contacts from "./pages/Contacts.tsx";
 import History from "./pages/History.tsx";
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
 import "./styles.css";
 
 function App() {

@@ -1,5 +1,6 @@
 import React from "react";
 
+
 interface PageTemplateProps {
     title: string;
     subTitle: string;
